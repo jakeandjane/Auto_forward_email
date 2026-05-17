@@ -1,0 +1,9 @@
+{
+  "mailcom_email": "Pancakecgh@cyberdude.com",
+  "mailcom_password": "cW5v8jERIfSK",
+  "forward_to": "tyy_scu@163.com",
+  "check_interval_seconds": 20,
+  "headless": true,
+  "max_forwards_per_run": 10,
+  "forward_subject_prefix": "[转发] "
+}
